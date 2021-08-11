@@ -28,7 +28,6 @@ const Bio = () => {
 
   // Set these values by editing "siteMetadata" in gatsby-config.js
   const author = data.site.siteMetadata?.author
-  const social = data.site.siteMetadata?.social
 
   return (
     <div className="bio">
@@ -47,7 +46,7 @@ const Bio = () => {
           Written by <strong>{author.name}</strong> 
           <div>{author?.summary || null}</div>
           {` `}
-          <a href={`https://github.com/${social?.github || ``}`}>
+          <a href="https://github.com/jrthartwig">
             Check out my Github. 
           </a>
         </p>
