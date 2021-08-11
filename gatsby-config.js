@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Jocelynn's Ramblings`,
+    title: `Jocelynn Learns`,
     author: {
       name: `Jocelynn Hartwig`,
       summary: `Software Engineer | Novice Violinist | Decent Chess Player`,
@@ -113,8 +113,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Jocelynn's Ramblings`,
-        short_name: `Blog`,
+        name: `Jocelynn Learns`,
+        short_name: `Lessons Learned`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
