@@ -5,7 +5,7 @@ module.exports = {
       name: `Jocelynn Hartwig`,
       summary: `Software Engineer | Novice Violinist | Decent Chess Player`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A digital record of my adventures as a coder by day and a hobbyist by night.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       github: `jrthartwig`,
