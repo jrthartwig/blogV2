@@ -1,6 +1,6 @@
 ---
 title: Learning Violin in My Late 20's
-date: "2021-08-16T23:46:37.121Z"
+date: "2021-08-15T23:46:37.121Z"
 description: A few lessons learned through picking up violin at 27.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TnQKEH7qOUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -13,7 +13,7 @@ I've been practicing violin 3-4 times per week for the last nine months. Through
 
 Eventually I let go of needing to be a self-taught violinist and asked for help. I found a great violin teacher that does remote lessons, and meeting with him twice per month has helped me more than words can express. 
 
-**Stage Freight is Real:** When your friends and family find out that you're learning an instrument, they will inevitably ask if you will play it for them. I am still working through how to be okay with this and to not almost shout "no" when asked. I don't have the answer for this one yet, other than to trust that the person who is asking will not criticize or judge you. And if they do, that says more about that person than it does about your ability. 
+**Stage Fright is Real:** When your friends and family find out that you're learning an instrument, they will inevitably ask if you will play it for them. I am still working through how to be okay with this and to not almost shout "no" when asked. I don't have the answer for this one yet, other than to trust that the person who is asking will not criticize or judge you. And if they do, that says more about that person than it does about your ability. 
 
 Having a new musical instrument as a hobby in my late 20's has been an incredible experience so far. As an engineer by trade, losing myself in my violin has saved my sanity more times than I can count.
 
